@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LadenLung3000 
 - 👀 I’m interested in Linux, mostly.
 - 🌱 I’m currently learning C, Java and Python
-- 📫 How to reach me: ananthanirudh1808@protonmail.com
 
 <!---
 LadenLung3000/LadenLung3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
